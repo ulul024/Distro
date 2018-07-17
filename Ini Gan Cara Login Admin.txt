@@ -1,0 +1,3 @@
+Login Admin : http://localhost/distropalestina/admin/login.php
+user : Ganang
+Pass : admin
